@@ -1,0 +1,8 @@
+# tensorboard-plugin
+tensorflow
+tensorflow-estimator
+termcolor
+urllib3
+Werkzeug
+wrapt
+zipp
